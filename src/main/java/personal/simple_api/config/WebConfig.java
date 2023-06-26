@@ -1,4 +1,4 @@
-package personal.simple_api.util;
+package personal.simple_api.config;
 
 import jakarta.servlet.Filter;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
